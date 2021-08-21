@@ -1,0 +1,7 @@
+.wrapAddTodo {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin-bottom: 15px;
+  background-color: #e7e7e7;
+}

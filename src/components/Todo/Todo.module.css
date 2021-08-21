@@ -1,0 +1,7 @@
+.todoTitle {
+  padding: 0 15px;
+}
+
+.todoTitleDone {
+  text-decoration: line-through;
+}
